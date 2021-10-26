@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@200;300;400;500;600;700;800&family=Oswald:wght@200;300;400;500;600;700&display=swap");
+
+body {
+  background-color: #212121;
+  color: #fefbf3;
+  font-family: "Oswald", sans-serif;
+}
+
+h1,
+h2 {
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+hr {
+  width: 95%;
+}
+
+div {
+  max-width: 1200px;
+  margin: 50px auto 0;
+}
+
+span {
+  color: #e89e4a;
+}
+
+li,
+p {
+  font-family: "Assistant", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+a {
+  color: #f05454;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+td {
+  text-align: center;
+  width: 50%;
+}
+
+.span-special {
+  color: #f05454;
+}
+
+.youtube {
+  font-weight: bolder;
+}
+
+.p1 {
+  text-align: center;
+}
+
+.p2 {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.p-special {
+  color: #626262;
+  text-align: center;
+  margin: 0 auto 0;
+  font-size: 14px;
+}
+
+.happy-img {
+  width: 70%;
+}
+
+.sad-img {
+  width: 60%;
+}
+
+.footer {
+  margin-top: 50px;
+}
